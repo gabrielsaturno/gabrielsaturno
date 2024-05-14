@@ -42,7 +42,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/dev2.gif?raw=true" width="636px" height="508px"/>
+<img align="right" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/dev2.gif?raw=true" width="500px" height="399px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -72,3 +72,22 @@
 
 -----
 
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8ladn8qdkn2fzwq6tq9h896qc" alt="Data Card for Spotify">
+</details>
+</div>
+<div>
+<!-- <a href="https://twitter.com/untimelylord" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=untimelylord"/></a> -->
+<a href="https://www.last.fm/pt/user/gabsaturno" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=gabsaturno&width=400"/></a>
+</div>
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=8ladn8qdkn2fzwq6tq9h896qc&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8ladn8qdkn2fzwq6tq9h896qc&count=10"/>
+</div>
+
+</div>
+
+-----
