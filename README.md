@@ -1,4 +1,4 @@
-![Header](img./saturno.png)
+![Header](img/saturno.png)
 
 ### Hi there 👋🪐
 
