@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Saturno</code>, tenho 25 anos, moro em BH e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente sou <code>consultor</code> de implantação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.meep.com.br/" target="_blank">MEEP</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Saturno</code>, tenho 25 anos, moro em BH e sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou <code>Consultor de Implantação</code> na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>.</i> :man_teacher:<br />
 </div>
 
 -----
