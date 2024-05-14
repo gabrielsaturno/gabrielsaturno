@@ -42,7 +42,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/dev2.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/dev2.gif?raw=true" width="636px" height="488px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
