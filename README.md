@@ -36,7 +36,8 @@
 </div>
 
 -----
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:<br />
+Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação e atualmente Consultor de Implantação. Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
 
 -----
 
