@@ -52,8 +52,8 @@
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de <br />Análise e Desenvolvimento de Sistemas.<br />
 - :mortar_board: &nbsp; Na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>, sou <code>Consultor de Implantação</code>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/gabrisaturno" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- <img height ="50" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/tardis2.gif">Minha série preferida é Doctor Who.<br />
+- :soccer: &nbsp; Sou atleticano, torço para o <a href="https://atletico.com.br/" target="_blank">galão</a>. :rooster:<br />
+- <img height ="50" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/tardis2.gif">Minha série preferida é <a href="https://www.doctorwho.tv/" target="_blank">Doctor Who</a>.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielsaturnoads@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
