@@ -75,10 +75,8 @@
 
 <div>
 <div>
-<details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Saturno's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8ladn8qdkn2fzwq6tq9h896qc" alt="Data Card for Spotify">
-</details>
 </div>
 <div>
 <a href="https://www.last.fm/pt/user/gabsaturno" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=gabsaturno&width=400"/></a>
