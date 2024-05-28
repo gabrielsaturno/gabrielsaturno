@@ -53,6 +53,7 @@
 - :mortar_board: &nbsp; Na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>, sou <code>Consultor de Implantação</code>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/gabrisaturno" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
+- <img height ="50" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/tardis2.gif">Minha série preferida é Doctor Who.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielsaturnoads@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
@@ -80,7 +81,6 @@
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/untimelylord" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=untimelylord"/></a> -->
 <a href="https://www.last.fm/pt/user/gabsaturno" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=gabsaturno&width=400"/></a>
 </div>
 <div>
