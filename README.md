@@ -81,10 +81,6 @@
 <div>
 <a href="https://www.last.fm/pt/user/gabsaturno" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=gabsaturno&width=400"/></a>
 </div>
-<div>
-<img alt="Spotify list" width="500px" height="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=8ladn8qdkn2fzwq6tq9h896qc&count=10"/>
-</div>
-
 </div>
 
 -----
