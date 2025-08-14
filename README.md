@@ -32,12 +32,12 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Saturno</code> <a href='https://emojitool.com/pt/saturn'>&#129680;</a>, tenho 27 anos, moro em BH e sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou <code>Consultor de Implantação</code> na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Saturno</code> <a href='https://emojitool.com/pt/saturn'>&#129680;</a>, tenho 27 anos, moro em BH e formado em Análise e Desenvolvimento de Sistemas na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Atualmente sou <code>Coordenador de Implantação</code> na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>.</i> :man_teacher:<br />
 </div>
 
 -----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:<br />
-Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação, Consultor de Implantação e atualmente Coordenador de Implantação. Formando em Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
+Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação, Consultor de Implantação e atualmente Coordenador de Implantação. Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
 
 -----
 
