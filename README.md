@@ -37,7 +37,7 @@
 
 -----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:<br />
-Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação e atualmente Consultor de Implantação. Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
+Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação, Consultor de Implantação e atualmente Coordenador de Implantação. Formando em Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
 
 -----
 
@@ -50,8 +50,8 @@ Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_bla
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de <br />Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>, sou <code>Consultor de Implantação</code>.<br />
+- :man_teacher: &nbsp; Sou <code>formado</code> em <br />Análise e Desenvolvimento de Sistemas pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
+- :mortar_board: &nbsp; Na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>, sou <code>Coordenador de Implantação</code>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/gabrisaturno" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://atletico.com.br/" target="_blank">galão</a>. :rooster:<br />
 - <img height ="50" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/tardis2.gif">Minha série preferida é <a href="https://www.doctorwho.tv/" target="_blank">Doctor Who</a>.<br />
