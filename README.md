@@ -37,7 +37,7 @@
 
 -----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:<br />
-Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação, Consultor de Implantação e atualmente Coordenador de Implantação. Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
+Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_blank">Bom Jesus do Galho, MG</a> e me mudei para BH em dezembro de 2020. Desde então trabalho na Meep, passando inicialmente pelo cargo de Assistente de Atendimento, posteriormente atuei como Analista de Suporte Técnico, Analista de Implantação, Consultor de Implantação e Supervisor de Implantação. Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Newton Paiva.<br />Me interesso majoritariamente pelo desenvolvimento Back-End, e busco agregar novos conhecimentos.
 
 -----
 
@@ -51,11 +51,9 @@ Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_bla
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp; Sou <code>formado</code> em <br />Análise e Desenvolvimento de Sistemas pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.meep.com.br/" target="_blank">MEEP</a>, sou <code>Coordenador de Implantação</code>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/gabrisaturno" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://atletico.com.br/" target="_blank">galão</a>. :rooster:<br />
 - <img height ="50" alt="GIF" src="https://github.com/gabrielsaturno/gabrielsaturno/blob/main/img/tardis2.gif">Minha série preferida é <a href="https://www.doctorwho.tv/" target="_blank">Doctor Who</a>.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:gabrielsaturnoads@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
@@ -77,7 +75,7 @@ Nasci em <a href="https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho" target="_bla
 <div>
 <div>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Saturno's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=8ladn8qdkn2fzwq6tq9h896qc" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=8ladn8qdkn2fzwq6tq9h896qc" alt="Data Card for Spotify">
 </div>
 <div>
 <a href="https://www.last.fm/pt/user/gabsaturno" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=gabsaturno&width=400"/></a>
